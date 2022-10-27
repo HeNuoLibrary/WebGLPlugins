@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8438ef3b9a4e6f34e8adbe33515162eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Source Han Sans Old Style
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1322a5963c7b3954587f0b0a5b167297, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

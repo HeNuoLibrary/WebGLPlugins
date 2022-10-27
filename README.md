@@ -1,26 +1,9 @@
-# WebGLInput
+Git基础管理_UnityUpm包制作 以及使用
+https://blog.csdn.net/weixin_44286627/article/details/121895926
 
-IME for Unity WebGL ( Support TextMesh Pro from Unity2018.2 )
+此包包括 
+1.WebGL获取网页连接附加的参数
+2.WebGL不显示中文
+3.WebGL不能输入中文
 
-support “copy and paste”
-
-support "tab" and "shift+tab" change focus to other InputField
-
-support mobile. (Experiment)
-
-# DEMO
-https://unityroom.com/games/webglinput
-
-# How to use
-1.download [WebGLSupport.unitypackage](https://github.com/kou-yeung/WebGLInput/releases) and import to project
-
-2.add "WebGLInput" Component to InputField GameObject
-
-3.build and run!!
-
-no need to setting anything.
-
-# insert \t use tab key instead of changing focus
-Add "WEBGLINPUT_TAB" to Scripting Define Symbols.
-
-and check "Enable Tab Text" at WebGLInput. 
+Tab建切换输入 以及聚焦问题请查看https://github.com/kou-yeung/WebGLInput

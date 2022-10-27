@@ -1,0 +1,23 @@
+{
+  "name": "com.henuo.webglsupport",
+  "version": "0.1.0",
+  "displayName": "WebGLSupport",
+  "description": "这是本人整理的UPM插件,并非是本人开发 著作权由开发者所有 开发者github:https://github.com/kou-yeung/WebGLInput",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:HeNuoLibrary/WebGLPlugins.git"
+  },
+  "unity": "2021.3",
+  "author": {
+    "name": "HeNuo",
+    "email": "HeNuo@gmail.com",
+    "url": "https://qiankanglai.me"
+  },
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "Replace this string with your own description of the sample. Delete the Samples folder if not needed.",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
